@@ -1,0 +1,10 @@
+HAI 1.2
+    I HAS A NUM ITZ A NUMBR
+    GIMMEH NUM
+    BOTH SAEM MOD OF NUM AN 2 AN 0,O RLY?
+        YA RLY
+            VISIBLE "EVEN"
+        NO WAI
+            VISIBLE "ODD"
+    OIC
+KTHXBYE
